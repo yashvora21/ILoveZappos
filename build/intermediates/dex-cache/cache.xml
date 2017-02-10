@@ -3,84 +3,84 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jar="\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_5fd950e0f800f46807f477c848d86892274d92b9\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_5fd950e0f800f46807f477c848d86892274d92b9\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jar="\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_b53865850adc008335993b8b27b8edc3d137433b\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_b53865850adc008335993b8b27b8edc3d137433b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
+        jar="\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.1_1e5ce36eaf0656b313add49cbb25ae1dca58d55f\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.1_1e5ce36eaf0656b313add49cbb25ae1dca58d55f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\jars\classes.jar"
+        jar="\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.androidanimations-library-1.1.3_1d063b7f1879cf822e6e2f4ef6be853d7331d348\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.androidanimations-library-1.1.3_1d063b7f1879cf822e6e2f4ef6be853d7331d348\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jar="\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_5f08fb4e650ffd153acece45b566be99e0d34f59\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_5f08fb4e650ffd153acece45b566be99e0d34f59\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jar="\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_609bd637aa3210d95c1da9d7636e8f82ad6643f1\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_609bd637aa3210d95c1da9d7636e8f82ad6643f1\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="72ec11a9c1988932412b9ab7bc5c067a00083f60">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_226df0d9aa8c321f5a3600193cc099a01e35b462\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_226df0d9aa8c321f5a3600193cc099a01e35b462\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jar="\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_6959af6fde46e8e8523b3007ab9a46ecfa1c3b57\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_6959af6fde46e8e8523b3007ab9a46ecfa1c3b57\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jar="\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_82458f2ede53e85e6cf9fc9a9f9ebb0ff4adfb3a\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_82458f2ede53e85e6cf9fc9a9f9ebb0ff4adfb3a\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -89,196 +89,196 @@
         optimize="true"
         revision="25.0.2"
         sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\baseLibrary-2.2.3_8bc637fcca1e0a3556ffc9576dbd2dded58abbcb\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\baseLibrary-2.2.3_8bc637fcca1e0a3556ffc9576dbd2dded58abbcb\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jar="\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_f84d603fc1fa21e28656810e4db07858106eb7d2\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_f84d603fc1fa21e28656810e4db07858106eb7d2\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\libs\AndroidEasingFunctions-1.0.0.jar"
+        jar="\app\libs\AndroidEasingFunctions-1.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="ae609e93bcbe4988aa371ab615b7abb43e9399bf">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\2\AndroidEasingFunctions-1.0.0_3dc14c292881e1a0408bee4951703d10861d8f71\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\2\AndroidEasingFunctions-1.0.0_3dc14c292881e1a0408bee4951703d10861d8f71\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jar="\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_941e8902590dba7cd4ec3b2a171113468df15b9d\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_941e8902590dba7cd4ec3b2a171113468df15b9d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
+        jar="\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.databinding-adapters-1.2.1_3b585b40c0ddade6dda9cd2f19cbd9a6ffca7c62\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.databinding-adapters-1.2.1_3b585b40c0ddade6dda9cd2f19cbd9a6ffca7c62\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jar="\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_cf62cd142861d27322150972ee54034c80583d91\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_cf62cd142861d27322150972ee54034c80583d91\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="c2137af8100d0ce9c1dcfc50ae854ecce8bd389b">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1e93d7a1d184a3721b9109336a9a809eca477971\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1e93d7a1d184a3721b9109336a9a809eca477971\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jar="\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_7ee9dc2b605cc80445bd9c58d1b21f0f2d0f0228\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_7ee9dc2b605cc80445bd9c58d1b21f0f2d0f0228\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jar="\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.0.0_7ec29168ea3894596c9f3b713ee799dfd4dbe736\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.0.0_7ec29168ea3894596c9f3b713ee799dfd4dbe736\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jar="\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_ef037fc3bb1ebd11b63b33dc5e9e97d804c9080b\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_ef037fc3bb1ebd11b63b33dc5e9e97d804c9080b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jar="\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_4e91d051f8edf7e4bcee8e6f31c3f395f383cbc5\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_4e91d051f8edf7e4bcee8e6f31c3f395f383cbc5\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\libs\AndroidViewAnimations-1.1.3.jar"
+        jar="\app\libs\AndroidViewAnimations-1.1.3.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="d8db345547f7a025130d1622f2608ec68e761641">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\2\AndroidViewAnimations-1.1.3_ae77ae658c9f910c346cb2abbd4122d9fde50bd1\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\2\AndroidViewAnimations-1.1.3_ae77ae658c9f910c346cb2abbd4122d9fde50bd1\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jar="\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_06085d16a7e9181198a93b2934cdf88d83d69d95\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_06085d16a7e9181198a93b2934cdf88d83d69d95\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jar="\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_5a70518e1e29376c0bb517d7622cdaedd9beaae1\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_5a70518e1e29376c0bb517d7622cdaedd9beaae1\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
+        jar="\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.easing-library-1.0.1_de40dd08475d4e1d5500f6a0d5414baeb64cf924\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.easing-library-1.0.1_de40dd08475d4e1d5500f6a0d5414baeb64cf924\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\libs\NineOldAndroid-2.4.0.jar"
+        jar="\app\libs\NineOldAndroid-2.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\2\NineOldAndroid-2.4.0_2627ccea39a89c503afa235576891afe8f50921c\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\2\NineOldAndroid-2.4.0_2627ccea39a89c503afa235576891afe8f50921c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jar="\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_c1601b20532c06165976526a904d74a108184b17\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_c1601b20532c06165976526a904d74a108184b17\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jar="\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_b3bf32b415b330b9204699489eff8a135be5c81e\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_b3bf32b415b330b9204699489eff8a135be5c81e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
+        jar="\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.databinding-library-1.2.1_332cd38b0d3c636d2853150b8b5db52e9ecc9efb\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.databinding-library-1.2.1_332cd38b0d3c636d2853150b8b5db52e9ecc9efb\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jar="\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_4edb93b8081eee25447fda2984a720c56893c629\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_4edb93b8081eee25447fda2984a720c56893c629\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jar="\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_09f2d9ceb15cb214b1b9f171be45c9c75d313eb9\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_09f2d9ceb15cb214b1b9f171be45c9c75d313eb9\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\YASH\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jar="\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="f1bc476cc167b18e66c297df599b2377131a8947">
-        <dex dex="C:\Users\YASH\Downloads\DataBindingEx\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_86324f2157e99c122bc38f8116d470cdf5e90e11\classes.dex" />
+        <dex dex="\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_86324f2157e99c122bc38f8116d470cdf5e90e11\classes.dex" />
     </item>
 
 </items>
