@@ -4,8 +4,8 @@ This project is meant to show demo of basic functionalities in Android Developme
 
 The application uses API provided by Zappos to handle REST requests and responses and display data in the app based on the respsonses received from this API. The application is developed using standard Development standards following MVC design pattern.
 
-The application has 3 View Activities starting from the Query Activity where user enters the search query, following the page where the user cana see a List View of the products returned from the search query and finally the Product View page which displays basic information about the product along with a Floating Action Button to add or remove product from the cart using some animations.
+The application has 3 View Activities starting from the Query Activity where user enters the search query, following the page where the user can see a List View of the products returned from the search query and finally the Product View page which displays basic information about the product along with a Floating Action Button to add or remove product from the cart using some animations.
 
-I have used the following library to perform the animation task on the Floating Action button and would like to add credits to thhe library owner <b><u>Daimajia</u></b>:
+I have used the following library to perform the animation task on the Floating Action button and would like to add credits to the library owner <b><u>Daimajia</u></b>:
 
 https://github.com/daimajia/AndroidViewAnimations
