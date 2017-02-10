@@ -24,7 +24,7 @@ public class ProductView extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         int position = Integer.parseInt(getIntent().getStringExtra("position"));
-
+        add=0;
         ProductViewBinding productViewBinding = DataBindingUtil.setContentView(this, R.layout.product_view);
         final FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.add);
         Product product = new Product(GetData.brandName[position], GetData.thumbnail[position], GetData.productId[position],
