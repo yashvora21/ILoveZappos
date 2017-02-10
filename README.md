@@ -6,5 +6,6 @@ The application uses API provided by Zappos to handle REST requests and response
 
 The application has 3 View Activities starting from the Query Activity where user enters the search query, following the page where the user cana see a List View of the products returned from the search query and finally the Product View page which displays basic information about the product along with a Floating Action Button to add or remove product from the cart using some animations.
 
-I have used the following library to perform the animation task and would like to add credits to thhe library owner:
+I have used the following library to perform the animation task and would like to add credits to thhe library owner <b><u>Daimajia</u></b>:
 
+https://github.com/daimajia/AndroidViewAnimations
